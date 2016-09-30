@@ -1,28 +1,28 @@
 {
   "wallpapers": [
     {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/4LlSmun.jpg",
-      "name": "Wall_120"
+      "author": "",
+      "url": "",
+      "name": "Wall_01"
     },
      {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/zVfxI10.jpg",
+      "author": "",
+      "url": "",
       "name": "Wall_02"
      },
     {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/zVfxI10.jpg",
+      "author": "",
+      "url": "",
       "name": "Wall_02"
     },
     {
-      "author": "Nick Nice",
-      "url": "http://i.imgur.com/fMIaD4z.jpg",
+      "author": "",
+      "url": "",
       "name": "Wall_03"
     },
     {
-      "author": "Nick Nice",
-      "url": "http://i.imgur.com/a0lYvC5.jpg",
+      "author": "",
+      "url": "",
       "name": "Wall_04"
     },
     {
@@ -134,56 +134,6 @@
       "author": "Unsplash",
       "url": "http://i.imgur.com/QEbfwlW.jpg",
       "name": "Wall_26"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/oIlJ2pV.jpg",
-      "name": "Wall_27"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/FUxcbZX.jpg",
-      "name": "Wall_28"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/ao9Ul3V.jpg",
-      "name": "Wall_29"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/rNfIxL7.jpg",
-      "name": "Wall_30"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/kNUhiXv.jpg",
-      "name": "Wall_31"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/bT5lcRB.jpg",
-      "name": "Wall_32"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/WATrxY1.jpg",
-      "name": "Wall_33"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/Ym5VFLL.jpg",
-      "name": "Wall_34"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/V8dk3hV.jpg",
-      "name": "Wall_35"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/4yVkZKq.jpg",
-      "name": "Wall_36"
     }
   ]
 }
